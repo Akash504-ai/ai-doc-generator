@@ -1,0 +1,7 @@
+openai
+python-dotenv
+gitpython
+requests
+tree-sitter
+pathspec
+PyYAML
